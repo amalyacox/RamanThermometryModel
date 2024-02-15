@@ -1,3 +1,3 @@
 # RamanThermometryModel
 
- Jupyter notebook buliding thermal dissipation model for raman thermometry experiments
+ Jupyter notebook buliding thermal diffusion model for raman thermometry experiments
